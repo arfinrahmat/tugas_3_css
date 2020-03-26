@@ -1,0 +1,22 @@
+p {
+  background-color: #b0b3a8;
+}
+p.paragraf_pertama {
+  background-color: orange;
+  font-size: 12px;
+}
+p.paragraf_kedua {
+  color: white;
+  background-color: blue;
+  font-size: 12px;
+}
+p.paragraf_ketiga {
+  background-color: #f7f7f7;
+  font-family: monospace;
+  font-size: 20px;
+}
+p.paragraf_keempat {
+  font-family: serif;
+  font-weight: bold;
+  font-size: 20px;
+}
